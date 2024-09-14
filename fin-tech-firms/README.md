@@ -24,9 +24,8 @@ Tips
 
 ## Preparation for engineer manager interview
 
-https://mermaid.live/edit\#pako:eNp1U01v2zAM\_SuED0MCtBgwYD34MMCNmzZAuo96x1wYiYmFypJLSxmyov99VD7VFPPBlh6pR-o9-rVQXlNRFp1xusN-4QDY-zAaNQotLi1Bsx0CdeNxCgGM97ixJmxHe6gsjfJutEJY4TV71IdUgIpVawKpEJmOGMCjUewH4o1RGZqe5kd9CcxnF9BMU9f7QE5tz4G7DbkANRv5vk9\_Imt213iJFC\_K1YQaLIVAfAzMpX24lRu6vLcnH52W99Jk7Pfk14x9a9QRqzEgNMEzrrPDza85bAb47l1aZqR1kyW1yNq4dRaW5j7\_YZHviE1QtXlTpM0AExuHrP\_9OWDqrVF4tIxU5LNfHzxbev988mx05xRv-2C8G2esTQUoGjQP1ZevN2e8ClJrCPAJAqMbTDhZH0MrnkgTiUniCfBs\_u722TBMq6zKbTV5b9GcUNh7MdZY0mdZp4xRi4FpuDK-ie\_k4rl5v\_0zuQ9Vf85mcP0NQgoeRJpitEHSLXE6Lx0\_VP8TTEmZKKqfBBIvZELymXz0zsgk7ERD4TwJU5sBk2NpofyG-HTknlHq1iRTpQ\_9FldFR9yh0fKLvqbERSG6drQoSllqWqWuF8XCvUkqxuCbrVNFGTjSVcE-rtuiXKEdZBd7YaXaoPB3B\_TtH0zNLH4
+<img width="1446" alt="image" src="https://github.com/user-attachments/assets/e06ca506-9f42-4e55-958a-df8e781772e2">
 
-![][image1]
 
 To succeed in an interview at a UK Fintech company like ANNA Money, it's crucial to demonstrate your deep technical expertise, leadership abilities, and alignment with the company's mission and culture. Here's how you could frame your answers and some likely system design questions:
 
